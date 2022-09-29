@@ -1,5 +1,6 @@
 # Hi, I'm sunggyupaik 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunggyupaik&theme=tokyonight&layout=compact)](https://github.com/sunggyupaik/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunggyupaik&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=sunggyupaik&show_icons=true&theme=radical" />
+ <img style="height:195px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunggyupaik&theme=radical&layout=compact" />
+</div>
